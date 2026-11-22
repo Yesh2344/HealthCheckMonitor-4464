@@ -13,6 +13,7 @@ import java.time.Duration;
  * Utility class that encapsulates HTTP calls using {@link java.net.http.HttpClient}.
  */
 @Slf4j
+// kept it simple here
 public final class HttpClientUtil {
 
     private static final HttpClient CLIENT = HttpClient.newBuilder()

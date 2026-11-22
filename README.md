@@ -33,3 +33,5 @@ HealthCheckMonitor is a lightweight, production‑ready service that periodicall
 - Git (optional)
 
 ## Installation
+
+<!-- tiny readability tweak -->

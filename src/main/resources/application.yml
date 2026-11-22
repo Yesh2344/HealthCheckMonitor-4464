@@ -1,0 +1,7 @@
+server:
+  port: ${SERVER_PORT:8080}
+
+app:
+  health:
+    endpoints: ${HEALTH_ENDPOINTS:}
+    check-interval-ms: ${CHECK_INTERVAL_MS:30000}

@@ -11,6 +11,7 @@ import java.time.Duration;
 
 /**
  * Utility class that encapsulates HTTP calls using {@link java.net.http.HttpClient}.
+// small cleanup
  */
 @Slf4j
 // kept it simple here
